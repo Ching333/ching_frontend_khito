@@ -1,0 +1,35 @@
+.DS_Store
+node_modules
+/dist
+package-lock.json
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6e0abd7c3f925ea22bd6b5a7edeea4b237ec3b40
+vuetify.css
+
+EditedPlaceItemOld.vue
+AddTagOld.vue
+AddTag.vue
+
